@@ -1,0 +1,6 @@
+include README.rst
+include VERSION
+include MANIFEST.in
+include easy_crawler/conf/logging.conf
+include easy_crawler/protos/*.proto
+global-exclude *.py[cod]
